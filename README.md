@@ -1,6 +1,6 @@
 # football-team-cards-project-
 This project demonstrates how to use modern JavaScript methods while building an interactive web application that showcases a football team's players. Users can view detailed player information and filter the displayed players by specific criteria such as position or nickname.
-
+This is the hyperlink for this project https://football-team-cards-project-app.netlify.app/
 ![image](https://github.com/user-attachments/assets/cb9160ac-326e-4439-955f-c59a04150572)
 
 
@@ -23,9 +23,5 @@ This project demonstrates how to use modern JavaScript methods while building an
 
 ---
 
-## Setup Instructions
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/football-team-cards.git
-   cd football-team-cards
+## installation
+https://football-team-cards-project-app.netlify.app/
